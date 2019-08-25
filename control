@@ -1,0 +1,9 @@
+Package: com.sam990.powerplus
+Name: PowerPlus
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Sameer
+Author: Sameer
+Section: Tweaks
